@@ -27,7 +27,6 @@ function CreationComponent() {
         }  
     )
     const updateInfo = e => {
-        console.log(e.target.value)
         if (points < 0 || sumPoints({...characterInfo, [e.target.id]: parseInt([e.target.value][0])}) < 0) {
             e.target.value = characterInfo[e.target.id];
         } else if (points >= 0) {

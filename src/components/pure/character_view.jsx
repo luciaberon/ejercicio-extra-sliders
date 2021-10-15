@@ -4,7 +4,6 @@ import styled from 'styled-components'
 export default function Character({info}) {
 
     const { image, className, description } = info;
-    console.log(image)
     return (
         <Card className="w-50 h-75">
             <ClassInfo>

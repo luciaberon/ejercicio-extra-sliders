@@ -5,7 +5,6 @@ export const determineClass = (obj) => {
     var points = 0;
     for (const stat in obj) {
         if (!isNaN(obj[stat])) {
-            console.log("A sumar: ",obj[stat])
             switch (stat) {
                 case STATS.VIT:
                 case STATS.STR:
