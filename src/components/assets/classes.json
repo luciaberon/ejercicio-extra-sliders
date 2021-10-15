@@ -1,0 +1,29 @@
+{
+"classes":
+{ 
+    "mage":
+    {
+        "img": "https://www.dndbeyond.com/avatars/thumbnails/6/357/420/618/636272696881281556.png",
+        "description":"Un erudito usuario de magia capaz de manipular las estructuras de la realidad."
+    },
+    "cleric": 
+    {
+        "img":"https://www.dndbeyond.com/avatars/thumbnails/6/371/420/618/636272706155064423.png",
+        "description":"Un campeón sacerdotal que ejerce magia divina al servicio de un poder superior."
+    },
+    "barbarian":
+    {
+        "img":"https://www.dndbeyond.com/avatars/thumbnails/6/342/420/618/636272680339895080.png",
+        "description":"Un guerrero feroz de origen primitivo que puede entrar en una batalla furiosa."
+    },
+    "paladin":
+    {
+        "img":"https://www.dndbeyond.com/avatars/thumbnails/6/365/420/618/636272701937419552.png",
+        "description":"Un santo guerrero atado a un juramento sagrado"
+    },
+    "fighter":
+    {
+        "img":"https://www.dndbeyond.com/avatars/thumbnails/6/359/420/618/636272697874197438.png",
+        "description":"Un maestro del combate marcial, hábil con una variedad de armas y armaduras."
+    }
+}}
