@@ -38,7 +38,7 @@ export default function Customization({update,points,create}) {
 
 
 const Scroll = styled.div`
-    background: url("https://png2.cleanpng.com/sh/7a0141dfbdd9b6769ba8868df46258e7/L0KzQYm3VMA2N6d8iZH0aYP2gLBuTgBieJZ3ReJqcnPrfbb1lL1xaaFAiud8LXmwRbLqVsg5bpZpSKk5MEaxQYS7UsE6PWM2TaQ7OUazRoSBWMU0QF91htk=/kisspng-paper-parchment-papyrus-i-5ac688fed07006.1342195215229606388538.png");
+    background: url("https://i1.lensdump.com/i/gVC972.png");
     background-size: 100% 100%;
     background-position:center;
     width:40%;
