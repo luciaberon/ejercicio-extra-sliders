@@ -36,7 +36,7 @@ const Card = styled.div`
     justify-direction:center;
     width:1000px;
     align-items:center;
-    background-image:url('https://i3.lensdump.com/i/gVCBIC.jpg');
+    background-image:url('https://i2.lensdump.com/i/gVC48T.png');
     background-size:cover;
     background-repeat:no-repeat;
 `
