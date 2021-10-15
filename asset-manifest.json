@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ejercicio-extra-sliders/static/css/main.25d78fd7.chunk.css",
+    "main.js": "/ejercicio-extra-sliders/static/js/main.10bc5c7e.chunk.js",
+    "main.js.map": "/ejercicio-extra-sliders/static/js/main.10bc5c7e.chunk.js.map",
+    "runtime-main.js": "/ejercicio-extra-sliders/static/js/runtime-main.1dfb852d.js",
+    "runtime-main.js.map": "/ejercicio-extra-sliders/static/js/runtime-main.1dfb852d.js.map",
+    "static/css/2.4659568d.chunk.css": "/ejercicio-extra-sliders/static/css/2.4659568d.chunk.css",
+    "static/js/2.6b748a7a.chunk.js": "/ejercicio-extra-sliders/static/js/2.6b748a7a.chunk.js",
+    "static/js/2.6b748a7a.chunk.js.map": "/ejercicio-extra-sliders/static/js/2.6b748a7a.chunk.js.map",
+    "index.html": "/ejercicio-extra-sliders/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/ejercicio-extra-sliders/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.25d78fd7.chunk.css.map": "/ejercicio-extra-sliders/static/css/main.25d78fd7.chunk.css.map",
+    "static/js/2.6b748a7a.chunk.js.LICENSE.txt": "/ejercicio-extra-sliders/static/js/2.6b748a7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dfb852d.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.6b748a7a.chunk.js",
+    "static/css/main.25d78fd7.chunk.css",
+    "static/js/main.10bc5c7e.chunk.js"
+  ]
+}
